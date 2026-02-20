@@ -146,8 +146,9 @@ Table Name: `resume_analysis`
 ---
 
 ## output 
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/f9d6e435-b1ea-4886-9151-26fb589500ef" />
 <img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/f9d6e435-b1ea-4886-9151-26fb589500ef" />
-![Uploading Screenshot (63).png…]()
+
 
 
 ---
