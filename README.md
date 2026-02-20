@@ -147,11 +147,13 @@ Table Name: `resume_analysis`
 
 ## output 
 
-<img width="1920" height="1025" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/794ad0a1-a8d2-4146-b83a-d772bb62a442" />
+<img width="1920" height="1025" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/f53d537f-f73b-4b18-b9c9-6f457b77696d" />
 
+
+
+
+---
 <img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/f9d6e435-b1ea-4886-9151-26fb589500ef" />
-
-
 
 ---
 ## ⚙️ How It Works
