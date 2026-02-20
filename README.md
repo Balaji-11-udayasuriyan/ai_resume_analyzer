@@ -31,6 +31,7 @@ This API extracts text from uploaded resumes (PDF), compares it with a job descr
 
 ## 📂 Project Structure
 
+```bash
 ai_resume_analyzer/
 │
 ├── app/
@@ -40,14 +41,13 @@ ai_resume_analyzer/
 │   ├── schemas.py
 │   ├── crud.py
 │   ├── services/
-│   │      ├── ai_service.py
-│   │      └── resume_parser.py
+│   │   ├── ai_service.py
+│   │   └── resume_parser.py
 │
 ├── .env
 ├── requirements.txt
 └── README.md
-
----
+```
 
 ## 🐘 PostgreSQL Setup
 
